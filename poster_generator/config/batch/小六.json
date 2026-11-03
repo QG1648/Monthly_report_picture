@@ -1,0 +1,58 @@
+{
+  "child_name": "小六",
+  "month": "9月",
+  "title": "小六宝贝成长月报",
+  "summary": "把九月的小小快乐都认真收藏起来",
+  "photos_dir": "E:\\project\\月报图片\\小六",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202611,
+  "output_file": "output/batch/小六_2026_09_growth_monthly.png",
+  "photos": [
+    {
+      "file": "微信图片_20261003183452_113_121.jpg",
+      "caption": "举起国旗把节日祝福收藏",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003183453_114_121.jpg",
+      "caption": "和大球一起探索新的挑战",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003183454_115_121.jpg",
+      "caption": "细细品尝月饼感受秋天味道",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003183500_116_121.jpg",
+      "caption": "小手穿绳练习耐心和配合",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003183501_117_121.jpg",
+      "caption": "齿轮拼搭变出有趣新组合",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003183502_118_121.jpg",
+      "caption": "抛起彩球和伙伴一起欢笑",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003183504_119_121.jpg",
+      "caption": "认真倾听也勇敢表达自己",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003183505_120_121.jpg",
+      "caption": "和伙伴分享户外快乐时光",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003183506_121_121.jpg",
+      "caption": "攀爬木架勇敢向前探索",
+      "importance": 3
+    }
+  ]
+}

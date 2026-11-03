@@ -1,0 +1,58 @@
+{
+  "child_name": "满满",
+  "month": "10月",
+  "title": "满满宝贝成长月报",
+  "summary": "十月把勇敢尝试和甜甜笑容都收藏",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\满满",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202621,
+  "output_file": "output/batch_2026_10/满满_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "1130eda313bf4a21764a409012f594c2.jpg",
+      "caption": "认真拼图发现图案变化",
+      "importance": 1
+    },
+    {
+      "file": "488a533d163f2e51312317f2ef6bb0c9.jpg",
+      "caption": "软硬结合，棉花糖饼干夹心～",
+      "importance": 1
+    },
+    {
+      "file": "4bfa3beecce84c53142f19acf2f3495f.jpg",
+      "caption": "滑梯上的笑容真灿烂",
+      "importance": 3
+    },
+    {
+      "file": "4c7da89bfae2c008e10104db3621ca33.jpg",
+      "caption": "画出属于自己的小小作品",
+      "importance": 1
+    },
+    {
+      "file": "6240e37775b9d264039c82139276351c.jpg",
+      "caption": "走过木梯挑战身体平衡",
+      "importance": 3
+    },
+    {
+      "file": "b95ef96d70e63740ad71ecef7a88d744.jpg",
+      "caption": "推着小车探索户外空间",
+      "importance": 1
+    },
+    {
+      "file": "bf65c7362cdf6b8ffdd1a9db34ac7640.jpg",
+      "caption": "登顶时举起快乐的双手",
+      "importance": 3
+    },
+    {
+      "file": "e2aa1a2e0bc65f0b25a04a6dd8c5d916.jpg",
+      "caption": "走在秋日小路看看风景",
+      "importance": 1
+    },
+    {
+      "file": "f5f3ee053a790e78c159340057baa5bd.jpg",
+      "caption": "夹起彩色小球练习手眼配合",
+      "importance": 1
+    }
+  ]
+}

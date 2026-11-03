@@ -1,0 +1,58 @@
+{
+  "child_name": "小柚子",
+  "month": "10月",
+  "title": "小柚子宝贝成长月报",
+  "summary": "把十月的快乐发现和认真时刻收藏",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\小柚子",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202616,
+  "output_file": "output/batch_2026_10/小柚子_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "0e501beaed1024f9ecf62a9d79981f10.jpg",
+      "caption": "纸上点画留下多彩痕迹",
+      "importance": 1
+    },
+    {
+      "file": "34f5f31451ebedc26b009e761b75d850.jpg",
+      "caption": "滑梯上的笑脸格外灿烂",
+      "importance": 3
+    },
+    {
+      "file": "667bdd136945cc685bd35bd29e4b1c64.jpg",
+      "caption": "夹起彩色小球练习专注",
+      "importance": 1
+    },
+    {
+      "file": "6ddaa275b16cc92703883f4879b9fa0e.jpg",
+      "caption": "和伙伴一起分享小点心",
+      "importance": 1
+    },
+    {
+      "file": "7618f8726d4b9f72c4fe1a684b7de986.jpg",
+      "caption": "抱起积木探索草地新玩法",
+      "importance": 3
+    },
+    {
+      "file": "8243984d0fe643e3832034ee9bb20503.jpg",
+      "caption": "走进户外迎着阳光微笑",
+      "importance": 3
+    },
+    {
+      "file": "ad5fe077d39528d5c7cbdeda9033a3cf.jpg",
+      "caption": "推着小车体验奔跑乐趣",
+      "importance": 1
+    },
+    {
+      "file": "b7897c4677449ff41b909fe0b0a71b83.jpg",
+      "caption": "软硬结合，棉花糖饼干夹心～",
+      "importance": 1
+    },
+    {
+      "file": "c31f2976aec1d12b114330cfe0fe68d0.jpg",
+      "caption": "翻开绘本发现有趣故事",
+      "importance": 1
+    }
+  ]
+}

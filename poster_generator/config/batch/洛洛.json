@@ -1,0 +1,61 @@
+{
+  "child_name": "洛洛",
+  "month": "9月",
+  "title": "洛洛宝贝成长月报",
+  "summary": "九月在探索和陪伴中勇敢向前",
+  "photos_dir": "E:\\project\\月报图片\\洛洛",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202614,
+  "output_file": "output/batch/洛洛_2026_09_growth_monthly.png",
+  "photos": [
+    {
+      "file": "微信图片_20261003180659_67_121.jpg",
+      "caption": "挥舞小旗记录国庆快乐",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003180714_68_121.jpg",
+      "caption": "牵起小手和伙伴一起前进",
+      "importance": 1,
+      "caption_x": 70,
+      "caption_y": 2540,
+      "caption_width": 440
+    },
+    {
+      "file": "微信图片_20261003180728_69_121.jpg",
+      "caption": "小手拼搭积木练习专注",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003180733_70_121.jpg",
+      "caption": "细细品尝月饼感受秋天味道",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003180741_71_121.jpg",
+      "caption": "小小洞口藏着有趣发现",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003180742_72_121.jpg",
+      "caption": "抛起彩球分享游戏欢笑",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003180744_73_121.jpg",
+      "caption": "搬运积木完成今天的小任务",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003180746_74_121.jpg",
+      "caption": "踏上木桥勇敢探索户外",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003180754_75_121.jpg",
+      "caption": "攀爬绳网发现更高的风景",
+      "importance": 3
+    }
+  ]
+}

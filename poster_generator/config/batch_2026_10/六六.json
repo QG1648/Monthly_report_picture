@@ -1,0 +1,58 @@
+{
+  "child_name": "六六",
+  "month": "10月",
+  "title": "六六宝贝成长月报",
+  "summary": "十月把认真学习和户外欢笑都收藏",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\六六",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202612,
+  "output_file": "output/batch_2026_10/六六_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "4ac277461a999333197cf9de01f4e269.jpg",
+      "caption": "和伙伴一起留下登顶合影",
+      "importance": 3
+    },
+    {
+      "file": "4c5d4d6f60cfc517612c38699008896e.jpg",
+      "caption": "纸上点画留下专注的小心思",
+      "importance": 1
+    },
+    {
+      "file": "53aca8e3e6ce330c9aa8cc007b010bf1.jpg",
+      "caption": "锻炼小手，擦桌子",
+      "importance": 1
+    },
+    {
+      "file": "a874eb98d633481966f88b68d11e5274.jpg",
+      "caption": "户外游戏举起快乐的双手",
+      "importance": 1
+    },
+    {
+      "file": "ac69aaea0949fb3acc348cc98e7bc1e1.jpg",
+      "caption": "滑梯上的笑容亮晶晶",
+      "importance": 3
+    },
+    {
+      "file": "b1865a075ebf6952285a749d76f9df44.jpg",
+      "caption": "荡起秋千看看身边的风景",
+      "importance": 1
+    },
+    {
+      "file": "caf997dd9d784767af0a3816e3e16723.jpg",
+      "caption": "摆弄木头教具发现新玩法",
+      "importance": 1
+    },
+    {
+      "file": "d8cfb9d66783208ccebd28aa86c84ee1.jpg",
+      "caption": "夹起彩色小球练习手眼配合",
+      "importance": 1
+    },
+    {
+      "file": "爬到山顶休息喝水.jpg",
+      "caption": "和伙伴并肩坐着分享片刻",
+      "importance": 3
+    }
+  ]
+}

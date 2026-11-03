@@ -1,0 +1,21 @@
+{
+  "child_name": "满满",
+  "month": "9月",
+  "title": "满满宝贝成长月报",
+  "summary": "九月在探索与欢笑里慢慢长大",
+  "photos_dir": "input/photos",
+  "reference_dir": "input/reference",
+  "template": "template_04_eight",
+  "seed": 202609,
+  "output_file": "output/manman_2026_09_growth_monthly.png",
+  "photos": [
+    {"file": "微信图片_20261003184555_130_121.jpg", "caption": "彩纸拼贴里藏着专注小心思", "importance": 2},
+    {"file": "微信图片_20261003184559_131_121.jpg", "caption": "小手穿绳练习耐心和配合", "importance": 2},
+    {"file": "微信图片_20261003184602_132_121.jpg", "caption": "钻进软包角落探索新玩法", "importance": 1},
+    {"file": "微信图片_20261003184605_133_121.jpg", "caption": "小积木在手里变出新组合", "importance": 1},
+    {"file": "微信图片_20261003184609_134_121.jpg", "caption": "草地追泡泡和伙伴一起乐", "importance": 3},
+    {"file": "微信图片_20261003184613_135_121.jpg", "caption": "细细品尝月饼感受秋天味道", "importance": 2},
+    {"file": "微信图片_20261003184621_136_121.jpg", "caption": "搭起高高积木塔认真又投入", "importance": 2},
+    {"file": "微信图片_20261003184627_137_121.jpg", "caption": "坐上滑梯勇敢体验向下冲", "importance": 3}
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "child_name": "艾瑞",
+  "month": "9月",
+  "title": "艾瑞宝贝成长月报",
+  "summary": "九月在探索与欢笑里一步步长大",
+  "photos_dir": "E:\\project\\月报图片\\艾瑞",
+  "reference_dir": "input/reference",
+  "template": "template_05_ten",
+  "seed": 202616,
+  "output_file": "output/batch/艾瑞_2026_09_growth_monthly.png",
+  "photos": [
+    {
+      "file": "微信图片_20261003180852_76_121.jpg",
+      "caption": "举起国旗留下节日记忆",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003180853_77_121.jpg",
+      "caption": "认识水果发现自然味道",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003180854_78_121.jpg",
+      "caption": "推动大球感受游戏力量",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003180855_79_121.jpg",
+      "caption": "彩珠穿线练习专注与耐心",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003180857_80_121.jpg",
+      "caption": "钻进软包角落探索新玩法",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003180858_81_121.jpg",
+      "caption": "组合长杆发现拼搭乐趣",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003180902_82_121.jpg",
+      "caption": "草地追泡泡张开快乐双手",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003180904_83_121.jpg",
+      "caption": "细细品尝月饼感受秋天味道",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003180905_84_121.jpg",
+      "caption": "安静观察身边有趣变化",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003180907_85_121.jpg",
+      "caption": "木块搭建打开新的想象",
+      "importance": 1
+    }
+  ]
+}

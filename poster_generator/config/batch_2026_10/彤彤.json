@@ -1,0 +1,58 @@
+{
+  "child_name": "彤彤",
+  "month": "10月",
+  "title": "彤彤宝贝成长月报",
+  "summary": "十月在游戏与陪伴里勇敢向前",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\彤彤",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202618,
+  "output_file": "output/batch_2026_10/彤彤_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "5aea5661ead87ea7cb628138bb857dcc.jpg",
+      "caption": "走过平衡路线脚步稳稳",
+      "importance": 1
+    },
+    {
+      "file": "5e17413f1bb983db50d1905fc70077e5.jpg",
+      "caption": "戴上小黄帽探索户外",
+      "importance": 3
+    },
+    {
+      "file": "5f3bd9ae40181edb8401cf95222a966f.jpg",
+      "caption": "软硬结合，棉花糖饼干夹心～",
+      "importance": 1
+    },
+    {
+      "file": "60c0d936c935e34590d02aff4a1ec6d3.jpg",
+      "caption": "和伙伴坐上跷跷板玩耍",
+      "importance": 1
+    },
+    {
+      "file": "8f88c3ca1eb151f46a82f812494ea367.jpg",
+      "caption": "和朋友一起分享小点心",
+      "importance": 1
+    },
+    {
+      "file": "bfc179c688b161cdb4ff622202b7ee7c.jpg",
+      "caption": "骑上小车和伙伴快乐出发",
+      "importance": 3
+    },
+    {
+      "file": "cbe1fa4a2bf504e5059096e4030402be.jpg",
+      "caption": "认真拼图发现新的图案",
+      "importance": 1
+    },
+    {
+      "file": "f2f7ec5e4aceb123a8eb147d80ef6a8b.jpg",
+      "caption": "滑梯上的笑容真明亮",
+      "importance": 3
+    },
+    {
+      "file": "fc142bd3e18f69121d04d4a5972daaed.jpg",
+      "caption": "夹起小球练习手眼配合",
+      "importance": 1
+    }
+  ]
+}

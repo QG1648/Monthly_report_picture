@@ -1,0 +1,58 @@
+{
+  "child_name": "小雪糕",
+  "month": "10月",
+  "title": "小雪糕宝贝成长月报",
+  "summary": "十月的笑声和新发现都闪闪发亮",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\小雪糕",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202617,
+  "output_file": "output/batch_2026_10/小雪糕_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "1797c6c741a13a76700fffd3e281b6d4.jpg",
+      "caption": "软硬结合，棉花糖饼干夹心～",
+      "importance": 1
+    },
+    {
+      "file": "66add3dbcaae36c538a94635234f4611.jpg",
+      "caption": "和伙伴一起准备美味食物",
+      "importance": 1
+    },
+    {
+      "file": "6c49e713c1878f573c7fea23e08b99cd.jpg",
+      "caption": "和伙伴一起留下登顶合影",
+      "importance": 3
+    },
+    {
+      "file": "8c112a718f6196169f8c3924f1e08953.jpg",
+      "caption": "彩色小球装满认真与好奇",
+      "importance": 1
+    },
+    {
+      "file": "b0017d759c65d98ff62422b501076630.jpg",
+      "caption": "滑梯上的快乐藏不住",
+      "importance": 3
+    },
+    {
+      "file": "cad8a09fac1c78fa754c9429decaf4dd.jpg",
+      "caption": "纸上点画记录新的发现",
+      "importance": 1
+    },
+    {
+      "file": "d5036528c9f828f810235610ae89f019.jpg",
+      "caption": "拼一拼图案锻炼观察力",
+      "importance": 1
+    },
+    {
+      "file": "f67519aa9799edc7e6e0e4bf8972d69d.jpg",
+      "caption": "咕噜咕噜喝水，补充能量吧",
+      "importance": 1
+    },
+    {
+      "file": "揪尾巴游戏进行中.jpg",
+      "caption": "在草地上和伙伴快乐奔跑",
+      "importance": 3
+    }
+  ]
+}

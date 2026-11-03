@@ -1,0 +1,61 @@
+{
+  "child_name": "饱饱",
+  "month": "9月",
+  "title": "饱饱宝贝成长月报",
+  "summary": "九月把认真探索和快乐时光都收藏",
+  "photos_dir": "E:\\project\\月报图片\\饱饱",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202618,
+  "output_file": "output/batch/饱饱_2026_09_growth_monthly.png",
+  "photos": [
+    {
+      "file": "微信图片_20261003181343_86_121.jpg",
+      "caption": "戴上红星头饰留下节日记忆",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003181344_87_121.jpg",
+      "caption": "彩纸拼贴里藏着专注小心思",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003181345_88_121.jpg",
+      "caption": "认真整理毛巾学会照顾自己",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003181346_89_121.jpg",
+      "caption": "小手穿绳练习耐心与配合",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003181348_90_121.jpg",
+      "caption": "坐进小屋体验快乐角色游戏",
+      "importance": 1,
+      "caption_x": 1600,
+      "caption_y": 1040,
+      "caption_width": 440
+    },
+    {
+      "file": "微信图片_20261003181349_91_121.jpg",
+      "caption": "彩杆组合搭出奇妙新造型",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003181350_92_121.jpg",
+      "caption": "草地追泡泡和伙伴一起欢笑",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003181353_93_121.jpg",
+      "caption": "摸藏在盒子里的宝藏",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003181354_94_121.jpg",
+      "caption": "推着购物车开启生活小游戏",
+      "importance": 1
+    }
+  ]
+}

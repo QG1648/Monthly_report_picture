@@ -1,0 +1,58 @@
+{
+  "child_name": "洛洛",
+  "month": "10月",
+  "title": "洛洛宝贝成长月报",
+  "summary": "十月在探索和游戏中继续勇敢长大",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\洛洛",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202620,
+  "output_file": "output/batch_2026_10/洛洛_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "15daf17e2ec286ce3121a5e02b794bec.jpg",
+      "caption": "小黄帽下发现草地新乐趣",
+      "importance": 3
+    },
+    {
+      "file": "2ee97054470c705b81046010ad8641e8.jpg",
+      "caption": "夹起彩色小球练习专注",
+      "importance": 1
+    },
+    {
+      "file": "4680049c7d47680529f5e738813cc2c2.jpg",
+      "caption": "坐上小车体验轻轻摇晃",
+      "importance": 1
+    },
+    {
+      "file": "5e0cb2002878a59bede0e8cc229faf89.jpg",
+      "caption": "滑下滑梯收获灿烂笑脸",
+      "importance": 3
+    },
+    {
+      "file": "80450d6be452034b94efbfb6eb59a52b.jpg",
+      "caption": "骑着小车继续探索户外",
+      "importance": 1
+    },
+    {
+      "file": "965a70ffdcb61321c40a187430a703d4.jpg",
+      "caption": "纸上点画留下创作痕迹",
+      "importance": 1
+    },
+    {
+      "file": "c449c0b3fafa40f2485b12da35c3abf2.jpg",
+      "caption": "翻开绘本走进有趣故事",
+      "importance": 1
+    },
+    {
+      "file": "e038a54ed591fb684cf05dfeecf1ce8a.jpg",
+      "caption": "跨上软垫勇敢保持平衡",
+      "importance": 3
+    },
+    {
+      "file": "f0be96de298f088cecfa36a585fa18c5.jpg",
+      "caption": "软硬结合，棉花糖饼干夹心～",
+      "importance": 1
+    }
+  ]
+}

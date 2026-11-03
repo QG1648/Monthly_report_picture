@@ -1,0 +1,58 @@
+{
+  "child_name": "WOWO",
+  "month": "10月",
+  "title": "WOWO宝贝成长月报",
+  "summary": "十月在探索与陪伴中收获新的勇气",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\WOWO",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202611,
+  "output_file": "output/batch_2026_10/WOWO_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "335030728f7d28093c309243db790061.jpg",
+      "caption": "彩色积木搭起高高的小塔",
+      "importance": 1
+    },
+    {
+      "file": "7fdfcbb309b3dda01edce0324be84520.jpg",
+      "caption": "和伙伴一起留下登顶合影",
+      "importance": 3
+    },
+    {
+      "file": "9044b11ca7987c1fc43c1dd819f92aac.jpg",
+      "caption": "软硬结合，棉花糖饼干夹心～",
+      "importance": 1
+    },
+    {
+      "file": "c16a839e280334b4632fe54071173aef.jpg",
+      "caption": "和伙伴坐上跷跷板分享欢笑",
+      "importance": 1
+    },
+    {
+      "file": "df8019a728138d473540cfa033556a1a.jpg",
+      "caption": "锻炼小手，擦桌子",
+      "importance": 1
+    },
+    {
+      "file": "一起去找图形宝宝.jpg",
+      "caption": "戴上小黄帽发现草地新乐趣",
+      "importance": 3
+    },
+    {
+      "file": "前翻跟斗成功.jpg",
+      "caption": "在软垫上练习翻滚动作",
+      "importance": 1
+    },
+    {
+      "file": "小螃蟹爬.jpg",
+      "caption": "双手撑地体验小螃蟹爬",
+      "importance": 1
+    },
+    {
+      "file": "棉花糖捏一捏.jpg",
+      "caption": "和好朋友一起看看小手",
+      "importance": 3
+    }
+  ]
+}

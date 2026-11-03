@@ -1,0 +1,58 @@
+{
+  "child_name": "六六",
+  "month": "9月",
+  "title": "六六宝贝成长月报",
+  "summary": "九月在勇敢尝试与欢笑陪伴中长大",
+  "photos_dir": "E:\\project\\月报图片\\六六",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202610,
+  "output_file": "output/batch/六六_2026_09_growth_monthly.png",
+  "photos": [
+    {
+      "file": "微信图片_20261003181827_95_121.jpg",
+      "caption": "举起国旗把节日祝福收藏",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003181829_96_121.jpg",
+      "caption": "彩纸拼贴里藏着专注小心思",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003181833_97_121.jpg",
+      "caption": "牵起小手一起分享快乐",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003181834_98_121.jpg",
+      "caption": "小手穿绳练习耐心和配合",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003181837_99_121.jpg",
+      "caption": "积木组合搭出新的想象",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003181838_100_121.jpg",
+      "caption": "细细品尝月饼感受秋天味道",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003181840_101_121.jpg",
+      "caption": "抛起彩球和伙伴一起欢笑",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003181841_102_121.jpg",
+      "caption": "搬动软积木探索形状变化",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003181843_103_121.jpg",
+      "caption": "钻进圆洞发现户外新天地",
+      "importance": 1
+    }
+  ]
+}

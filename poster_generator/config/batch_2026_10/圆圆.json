@@ -1,0 +1,58 @@
+{
+  "child_name": "圆圆",
+  "month": "10月",
+  "title": "圆圆宝贝成长月报",
+  "summary": "十月的笑脸和勇敢脚步都值得珍藏",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\圆圆",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202613,
+  "output_file": "output/batch_2026_10/圆圆_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "364f04b009fcb6bc18bd8ade51d1f8eb.jpg",
+      "caption": "软硬结合，棉花糖饼干夹心～",
+      "importance": 3
+    },
+    {
+      "file": "4596804fc38f2d570586582769edd75d.jpg",
+      "caption": "走上软垫试试自己的平衡",
+      "importance": 1
+    },
+    {
+      "file": "5adaf787d2ff227a964d7f3deea8aede.jpg",
+      "caption": "踩过彩色软垫勇敢向前",
+      "importance": 1
+    },
+    {
+      "file": "7aec7674ada9fe5de8159ba7d0be17dc.jpg",
+      "caption": "推着小车在户外快乐奔跑",
+      "importance": 1
+    },
+    {
+      "file": "93ff5f780a23539388e89e0b461ae356.jpg",
+      "caption": "和伙伴一起留下登顶纪念",
+      "importance": 3
+    },
+    {
+      "file": "d1705a2ddda3f5ed348ddb4b9a886333.jpg",
+      "caption": "转动彩色齿轮发现新组合",
+      "importance": 1
+    },
+    {
+      "file": "fe3f45b2052bbc4b02b4afde69d428dd.jpg",
+      "caption": "认真吃饭补充满满能量",
+      "importance": 1
+    },
+    {
+      "file": "爬山太开心啦.jpg",
+      "caption": "和大家一起走进秋日草地",
+      "importance": 3
+    },
+    {
+      "file": "这是我的好朋友.jpg",
+      "caption": "和好朋友一起开心大笑",
+      "importance": 1
+    }
+  ]
+}

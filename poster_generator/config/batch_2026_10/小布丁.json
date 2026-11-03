@@ -1,0 +1,58 @@
+{
+  "child_name": "小布丁",
+  "month": "10月",
+  "title": "小布丁宝贝成长月报",
+  "summary": "十月在陪伴和玩耍中一点点长大",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\小布丁",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202615,
+  "output_file": "output/batch_2026_10/小布丁_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "6c27c614056095d2eab5a550a388e9fe.jpg",
+      "caption": "摆弄小卡片认真投入游戏",
+      "importance": 1
+    },
+    {
+      "file": "a6b13da181e6431aab246be2a6ce8e1c.jpg",
+      "caption": "软硬结合，棉花糖饼干夹心～",
+      "importance": 3
+    },
+    {
+      "file": "b60faa5229405ba23cda8f62deba22fd.jpg",
+      "caption": "拿起小勺学习照顾自己",
+      "importance": 1
+    },
+    {
+      "file": "b6afb0a57236816cd7ba5749d7649e77.jpg",
+      "caption": "和伙伴坐上跷跷板轻轻摇",
+      "importance": 1
+    },
+    {
+      "file": "b7acfcaa6803d3aa2f89b5b0ab937711.jpg",
+      "caption": "滑下滑梯笑得格外开心",
+      "importance": 3
+    },
+    {
+      "file": "e6389b9b55c4f9df63aa43eefbb763cd.jpg",
+      "caption": "荡起秋千感受轻轻的风",
+      "importance": 1
+    },
+    {
+      "file": "刚来上幼儿园 好委屈.jpg",
+      "caption": "难过时也有温暖的拥抱",
+      "importance": 1
+    },
+    {
+      "file": "和小伙伴玩得好开心.jpg",
+      "caption": "和小伙伴一起分享开心时刻",
+      "importance": 3
+    },
+    {
+      "file": "我是小螃蟹 横着爬.jpg",
+      "caption": "学着小螃蟹撑起身体",
+      "importance": 1
+    }
+  ]
+}

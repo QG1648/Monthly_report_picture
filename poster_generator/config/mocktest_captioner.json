@@ -1,0 +1,10 @@
+{
+  "api_key": "test-key-123",
+  "base_url": "http://127.0.0.1:8787/v1/chat/completions",
+  "model": "mock-vl",
+  "timeout": 30,
+  "max_image_side": 1280,
+  "jpeg_quality": 85,
+  "sleep_between_calls": 0.2,
+  "retries": 2
+}

@@ -1,0 +1,63 @@
+{
+  "child_name": "彤彤",
+  "month": "9月",
+  "title": "彤彤宝贝成长月报",
+  "summary": "九月在游戏与欢笑里收获新的成长",
+  "photos_dir": "E:\\project\\月报图片\\彤彤",
+  "reference_dir": "input/reference",
+  "template": "template_05_ten",
+  "seed": 202613,
+  "output_file": "output/batch/彤彤_2026_09_growth_monthly.png",
+  "photos": [
+    {
+      "file": "微信图片_20261003175918_55_121.jpg",
+      "caption": "戴上红星头饰留下灿烂笑脸",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003175920_56_121.jpg",
+      "caption": "认真整理小毛巾学会照顾自己",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003175923_57_121.jpg",
+      "caption": "大球滚来滚去游戏充满欢笑",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003175927_58_121.jpg",
+      "caption": "小手穿绳练习耐心与专注",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003175931_59_121.jpg",
+      "caption": "齿轮拼搭变出有趣新造型",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003175937_60_121.jpg",
+      "caption": "踩上软垫勇敢保持身体平衡",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003175942_61_121.jpg",
+      "caption": "抛接彩球和伙伴一起欢笑",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003175946_62_121.jpg",
+      "caption": "合作搬积木搭起彩色城堡",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003175952_63_121.jpg",
+      "caption": "户外攀爬勇敢探索新路线",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003175954_64_121.jpg",
+      "caption": "品尝美食把秋天滋味收藏",
+      "importance": 1
+    }
+  ]
+}

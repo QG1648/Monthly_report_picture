@@ -1,0 +1,58 @@
+{
+  "child_name": "艾瑞",
+  "month": "10月",
+  "title": "艾瑞宝贝成长月报",
+  "summary": "十月在勇敢探索与欢笑里继续成长",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\艾瑞",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202622,
+  "output_file": "output/batch_2026_10/艾瑞_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "25cfec020d1fbb3f505723a280f888ad.jpg",
+      "caption": "推着小车在户外快乐出发",
+      "importance": 1
+    },
+    {
+      "file": "2ed463e8c01243ad7e072eb19a4e5b01.jpg",
+      "caption": "爬上软垫和伙伴一起挑战",
+      "importance": 3
+    },
+    {
+      "file": "31375a468ff18d8bdfc0080ca0b7f5b3.jpg",
+      "caption": "锻炼小手，擦桌子",
+      "importance": 1
+    },
+    {
+      "file": "83bdf76768aa64b8dd138b24e800501f.jpg",
+      "caption": "软硬结合，棉花糖饼干夹心～",
+      "importance": 1
+    },
+    {
+      "file": "91a00814d4c0fbef47bba50105846384.jpg",
+      "caption": "和伙伴一起认识水果",
+      "importance": 1
+    },
+    {
+      "file": "93d9e63e1875cc7bd6395c161011ef15.jpg",
+      "caption": "戴上小黄帽发现草地乐趣",
+      "importance": 1
+    },
+    {
+      "file": "bc8513ae75ea8cc0906d82c579ec6293.jpg",
+      "caption": "骑着小车迎接新的挑战",
+      "importance": 3
+    },
+    {
+      "file": "e6c7454508e5abfc8378e0f32a0d7025.jpg",
+      "caption": "走过木梯练习身体平衡",
+      "importance": 1
+    },
+    {
+      "file": "f37d607a804d0f64d14abead6fc33906.jpg",
+      "caption": "和伙伴一起留下登顶合影",
+      "importance": 3
+    }
+  ]
+}

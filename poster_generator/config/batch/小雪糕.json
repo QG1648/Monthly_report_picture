@@ -1,0 +1,53 @@
+{
+  "child_name": "小雪糕",
+  "month": "9月",
+  "title": "小雪糕宝贝成长月报",
+  "summary": "九月在勇敢尝试与快乐陪伴中长大",
+  "photos_dir": "E:\\project\\月报图片\\小雪糕",
+  "reference_dir": "input/reference",
+  "template": "template_04_eight",
+  "seed": 202612,
+  "output_file": "output/batch/小雪糕_2026_09_growth_monthly.png",
+  "photos": [
+    {
+      "file": "微信图片_20261003184406_122_121.jpg",
+      "caption": "戴上红星头饰留下节日笑脸",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003184416_123_121.jpg",
+      "caption": "和伙伴围着大球快乐游戏",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003184421_124_121.jpg",
+      "caption": "彩珠穿线练习专注与耐心",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003184426_125_121.jpg",
+      "caption": "踏上软垫勇敢保持平衡",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003184432_126_121.jpg",
+      "caption": "草地奔跑感受秋日清风",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003184437_127_121.jpg",
+      "caption": "细细品尝月饼感受秋天味道",
+      "importance": 1
+    },
+    {
+      "file": "微信图片_20261003184441_128_121.jpg",
+      "caption": "坐上滑梯勇敢体验向下冲",
+      "importance": 3
+    },
+    {
+      "file": "微信图片_20261003184444_129_121.jpg",
+      "caption": "和伙伴排排坐分享集体时光",
+      "importance": 1
+    }
+  ]
+}

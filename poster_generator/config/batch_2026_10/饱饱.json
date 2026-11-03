@@ -1,0 +1,58 @@
+{
+  "child_name": "饱饱",
+  "month": "10月",
+  "title": "饱饱宝贝成长月报",
+  "summary": "十月的认真与快乐都变成成长记忆",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\饱饱",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202624,
+  "output_file": "output/batch_2026_10/饱饱_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "3b5d875c860e0136756994a4de59dc65.jpg",
+      "caption": "认真拼图发现新的图案",
+      "importance": 1
+    },
+    {
+      "file": "495c8d06ad928ae7eb41508966000367.jpg",
+      "caption": "和伙伴一起留下登顶合影",
+      "importance": 3
+    },
+    {
+      "file": "649869ebe1d426ea58bc5efb1886b3e2.jpg",
+      "caption": "爬上软垫勇敢挑战自己",
+      "importance": 1
+    },
+    {
+      "file": "6ba33d1c8c169d0d9650c10e8229bc96.jpg",
+      "caption": "纸上点画留下多彩创意",
+      "importance": 1
+    },
+    {
+      "file": "792605d55a2d2447a10be6e8331f0670.jpg",
+      "caption": "和朋友一起分享秋日点心",
+      "importance": 1
+    },
+    {
+      "file": "943d95b8628f912695d2148b21084a73.jpg",
+      "caption": "举起小手留下自信笑容",
+      "importance": 3
+    },
+    {
+      "file": "c52b547afffa6245e5fd9fe27f8d1efc.jpg",
+      "caption": "软硬结合，棉花糖饼干夹心～",
+      "importance": 1
+    },
+    {
+      "file": "c71bd09e8ad17babace73fd9058df30d.jpg",
+      "caption": "滑梯上的笑容格外灿烂",
+      "importance": 3
+    },
+    {
+      "file": "d682dc716655a370e994b74c9a6fd236.jpg",
+      "caption": "戴上小黄帽走进草地游戏",
+      "importance": 1
+    }
+  ]
+}

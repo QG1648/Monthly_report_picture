@@ -1,0 +1,53 @@
+{
+  "child_name": "小六",
+  "month": "10月",
+  "title": "小六宝贝成长月报",
+  "summary": "十月认真玩耍也勇敢去尝试",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\小六",
+  "reference_dir": "input/reference",
+  "template": "template_04_eight",
+  "seed": 202611,
+  "output_file": "output/batch_demo/小六_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "0460a3055db140fee3fd0c9b1f1be9de.jpg",
+      "caption": "认真摆弄木质圆柱体教具",
+      "importance": 1
+    },
+    {
+      "file": "4acb0c3c19359e0d8a970cdbbc479dbc.jpg",
+      "caption": "骑着小三轮车和伙伴出发",
+      "importance": 3
+    },
+    {
+      "file": "59e105366ca2be01a4c1fd9649f62619.jpg",
+      "caption": "拿着小勺认真吃盘子里的饭",
+      "importance": 1
+    },
+    {
+      "file": "67a06a0852a6d6fea4ada79416429b2b.jpg",
+      "caption": "钻进圆筒隧道探出小脑袋",
+      "importance": 1
+    },
+    {
+      "file": "6b109dd0ea58bc9287e6176f6ce4c57c.jpg",
+      "caption": "抓着绳网一格一格向上爬",
+      "importance": 3
+    },
+    {
+      "file": "82b946d2488277359a7f9af7fed2b037.jpg",
+      "caption": "嘟起小嘴做个可爱小表情",
+      "importance": 1
+    },
+    {
+      "file": "878371c9d13f1f353417a7a6f4740896.jpg",
+      "caption": "扶着软垫小心地抬脚往上",
+      "importance": 1
+    },
+    {
+      "file": "cd80340539a2299e0b3d522d67b24d38.jpg",
+      "caption": "和小伙伴在山顶留个合影",
+      "importance": 3
+    }
+  ]
+}

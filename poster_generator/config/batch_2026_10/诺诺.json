@@ -1,0 +1,63 @@
+{
+  "child_name": "诺诺",
+  "month": "10月",
+  "title": "诺诺宝贝成长月报",
+  "summary": "十月在分享、探索和陪伴中闪闪发光",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\诺诺",
+  "reference_dir": "input/reference",
+  "template": "template_05_ten",
+  "seed": 202623,
+  "output_file": "output/batch_2026_10/诺诺_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "0119e71efafc886bba592e1f3f5cd358.jpg",
+      "caption": "软硬结合，棉花糖饼干夹心～",
+      "importance": 1
+    },
+    {
+      "file": "4c8835d3656ef93eb815ab2614e01796.jpg",
+      "caption": "翻开绘本寻找有趣故事",
+      "importance": 1
+    },
+    {
+      "file": "934de46f898371327e86d7a0353d1001.jpg",
+      "caption": "滑下滑梯享受户外时光",
+      "importance": 3
+    },
+    {
+      "file": "a782331439ccba64e955ac705f5e9d21.jpg",
+      "caption": "彩纸拼贴留下认真模样",
+      "importance": 1
+    },
+    {
+      "file": "c16a839e280334b4632fe54071173aef.jpg",
+      "caption": "和伙伴坐上跷跷板分享欢笑",
+      "importance": 1
+    },
+    {
+      "file": "d0b13eb321cdac155cb74c0ec8b0ab2e.jpg",
+      "caption": "夹起彩色小球练习耐心",
+      "importance": 1
+    },
+    {
+      "file": "d55f7f1261a8f7b1e99d7bf9d7c0ecbc.jpg",
+      "caption": "跨上软垫勇敢保持平衡",
+      "importance": 3
+    },
+    {
+      "file": "d7f1725b39f3f0212a160e2dc24c8ff4.jpg",
+      "caption": "钻过圆筒探索新路线",
+      "importance": 1
+    },
+    {
+      "file": "e0928a80b3382edf3a29b1bba24ba291.jpg",
+      "caption": "荡起秋千感受十月清风",
+      "importance": 3
+    },
+    {
+      "file": "捏一捏水宝宝.jpg",
+      "caption": "和伙伴一起探索小小发现",
+      "importance": 1
+    }
+  ]
+}

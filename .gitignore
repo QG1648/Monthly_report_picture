@@ -1,0 +1,29 @@
+# Local project assets - do not upload
+**/output/
+**/input/photos/
+**/input/reference/
+**/已去水印/
+**/九月/
+**/十月/
+**/有水印/
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.webp
+**/*.bmp
+**/*.gif
+**/*.tif
+**/*.tiff
+**/*.log
+**/*.tmp
+**/*.cache
+**/.DS_Store
+**/Thumbs.db
+
+# Optional local working files
+**/logs/
+**/temp/
+**/tmp/
+
+# Keep directory structure without tracking generated content
+!**/.gitkeep

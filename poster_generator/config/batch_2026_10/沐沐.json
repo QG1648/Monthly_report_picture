@@ -1,0 +1,58 @@
+{
+  "child_name": "沐沐",
+  "month": "10月",
+  "title": "沐沐宝贝成长月报",
+  "summary": "十月的每一步都写满好奇与欢笑",
+  "photos_dir": "E:\\project\\月报图片\\poster_generator\\input\\十月\\沐沐",
+  "reference_dir": "input/reference",
+  "template": "template_01",
+  "seed": 202619,
+  "output_file": "output/batch_2026_10/沐沐_2026_10_growth_monthly.png",
+  "photos": [
+    {
+      "file": "191a7675d8bae7aa0e8dad27e771c13f.jpg",
+      "caption": "软硬结合，棉花糖饼干夹心～",
+      "importance": 1
+    },
+    {
+      "file": "3524807c7fe007ea620ead8d2bae50fb.jpg",
+      "caption": "动手切葱花，体验食育的快乐",
+      "importance": 1
+    },
+    {
+      "file": "53d46f5a30bf42ad22d69abf9ac19a6b.jpg",
+      "caption": "户外游戏超开心",
+      "importance": 1
+    },
+    {
+      "file": "5b17257436f61f69e60d85ac20142402.jpg",
+      "caption": "夹起彩色小球练习专注",
+      "importance": 1
+    },
+    {
+      "file": "a2157bd7f876fe522c8ada7b2e028638.jpg",
+      "caption": "钻出圆筒笑着迎接挑战",
+      "importance": 3
+    },
+    {
+      "file": "dd38253d31e2e9f073ec4e919dc1a2e1.jpg",
+      "caption": "握着小杯享受用餐时光",
+      "importance": 1
+    },
+    {
+      "file": "ea0d1fe228350e23ec69bdd0c438a6f2.jpg",
+      "caption": "爬上软垫勇敢向前",
+      "importance": 3
+    },
+    {
+      "file": "f56d3ef9616db766fad864c7e95c9cf9.jpg",
+      "caption": "和伙伴一起留下登顶合影",
+      "importance": 3
+    },
+    {
+      "file": "得到小红花啦.jpg",
+      "caption": "和伙伴站在一起分享开心",
+      "importance": 1
+    }
+  ]
+}
